@@ -1,0 +1,3 @@
+General: As a solution for the chromebook Background, I wrote a code that made the background where the school logo would lie on.
+
+Specific: Using Sine and Cosine to define a circle where lines from an origin will connect to.
